@@ -10,7 +10,7 @@ const MatHero = () => {
             Matemática e Educação Financeira
             </h1>
             <p className="text-lg text-white py-8">
-            Nesta seção vamos retomar os conceitos de Matemática e Educação Financeira envolvidos na segunda parte do Livro do Estudante: Operações com números racionais e Orçamento.
+            Nesta seção vamos retomar os conceitos de Matemática e Educação Financeira envolvidos na segunda parte do Livro do Estudante: frações e porcentagem.
             </p>
             </div>
             <div className="hidden md:block">

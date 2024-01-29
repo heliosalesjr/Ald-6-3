@@ -10,7 +10,7 @@ const RecHero = () => {
             Recursos Didáticos
             </h1>
             <p className="text-lg text-white py-8">
-            Pensando no desenvolvimento do Diário de Bordo das atividades desenvolvidas durante o Projeto Coletivo, vamos apresentar a ferramenta Padlet e aprenderemos a criar Infográficos para tornar as aulas mais dinâmicas. São sugestões para serem trabalhadas em sala de aula, porém, não são obrigatórias, o professor, ao realizar o diagnóstico de sua sala, poderá utilizar ferramentas de sua preferência.
+            Nesta parte do desenvolvimento das atividades, apresentaremos uma ferramenta digital para criação de conteúdo, o Google Sites e uma estratégia didática interdisciplinar, o Poema de Cordel.
             </p>
             </div>
             <div className="hidden md:block">
