@@ -8,7 +8,7 @@ const Relembrando = () => {
            
             <div className="order-first h-48 w-full sm:order-none sm:h-auto sm:w-1/2 lg:w-2/5">
             <img
-                src="images/notes_4.jpg"
+                src="images/relembrando3.jpg"
                 loading="lazy"
                 alt="Photo by Helio Sales Jr."
                 className="h-full w-full object-cover object-center"

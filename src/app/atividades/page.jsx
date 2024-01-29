@@ -2,8 +2,8 @@
 
 import AtiBotaoNext from '../components/Atividades/AtiBotaoNext'
 import AtiEtapas from '../components/Atividades/AtiEtapas'
-import AtiPlanejamento from '../components/Atividades/AtiPlanejamento'
-import AtiPlanejamentoEducador from '../components/Atividades/AtiPlanejamentoEducador'
+import AtiAvalia from '../components/Atividades/AtiAvalia'
+import AtiABP from '../components/Atividades/AtiABP'
 import AtivHero from '../components/Atividades/AtivHero'
 import AtiEstudante from '../components/Atividades/AtiEstudante'
 import AtiSugestao from '../components/Atividades/AtiSugestao'
@@ -17,8 +17,8 @@ function Atividades() {
         
         <AtivHero />
         <AtiEtapas />
-        <AtiPlanejamento />
-        <AtiPlanejamentoEducador />
+        <AtiAvalia />
+        <AtiABP />
         <AtiEstudante />
         <Divider className='max-w-5xl mx-auto my-4 bg-primary'/>
         <AtiSugestao />

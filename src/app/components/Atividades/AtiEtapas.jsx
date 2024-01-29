@@ -44,7 +44,7 @@ export default function AtiEtapas() {
     <div className="container mx-auto max-w-7xl">
       <h1 className="font-bold text-2xl md:text-4xl sm:text-3xl text-slate-700 py-4 text-center">Localizando-se nas Etapas do Projeto</h1>
       <p className="text-lg mt-4 py-4 text-slate-600 p-4">
-      Chegamos às Etapas III e IV da execução do Pequeno Projeto Didático Ativo (PPDA), em que refinamos o planejamento e passamos para a ação. Relembre abaixo as Etapas de desenvolvimento do PPDA.
+      Chegamos nas Etapas IV e V da execução do Pequeno Projeto Didático Ativo (PPDA), onde os primeiros resultados dos projetos começam a surgir e precisamos avaliá-los. Relembre abaixo as Etapas de desenvolvimento do PPDA.
       </p>
     </div>
     <motion.div className="container mx-auto flex flex-wrap justify-center text-center py-4"

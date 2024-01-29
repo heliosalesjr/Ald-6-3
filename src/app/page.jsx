@@ -4,7 +4,7 @@ import { Divider } from "@nextui-org/react"
 import HeroSection from "./components/HeroSection"
 import IntroButons from "./components/IntroButons"
 import MainButton from "./components/MainButton"
-import OSite2 from "./components/OSite2"
+import OSite3 from "./components/OSite3"
 import Relembrando from "./components/Relembrando"
 
 
@@ -14,7 +14,7 @@ export default function Home() {
     <>
       
       <HeroSection />
-      <OSite2 />
+      <OSite3 />
       <Divider className="max-w-3xl mx-auto mb-12" />  
       <Relembrando />
       <IntroButons />

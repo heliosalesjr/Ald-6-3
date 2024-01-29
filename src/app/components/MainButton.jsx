@@ -7,7 +7,7 @@ function MainButton() {
         <div className="flex items-center justify-center pt-8">
        
             <p className="p-6 text-center text-gray-700 text-lg">
-            Vamos nos aprofundar sobre o planejamento do professor e o planejamento do estudante na próxima seção.</p>
+            Vamos nos aprofundar no processo de avaliação na próxima seção.</p>
 
             
         </div>

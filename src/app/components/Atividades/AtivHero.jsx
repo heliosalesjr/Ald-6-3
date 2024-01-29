@@ -10,7 +10,7 @@ const AtivHero = () => {
             Atividades do Projeto: Diagnóstico
             </h1>
             <p className="text-lg text-white py-8">
-            Nesta seção, vamos aprofundar a etapa de Planejamento do Educador, o planejamento ou Plano de Ação dos Estudantes e o Monitoramento. Também vamos conhecer duas ferramentas que ajudarão na definição das ações do projeto e podem auxiliar no monitoramento: a 5W2H e as Metas SMART.
+            Com as atividades em andamento começam a surgir os resultados. Vamos conhecer diferentes métodos avaliativos para diversificar maneiras de identificar dificuldades e aprendizados e também enriquecer a experiência dos estudantes.
             </p>
             </div>
             <div className="hidden md:block">

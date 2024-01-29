@@ -11,7 +11,7 @@ const HeroSection = () => {
               Aprendendo a Lidar com Dinheiro
             </h1>
             <p className="text-lg text-white py-8">
-            Olá, professores e professoras! Sejam bem-vindos e bem-vindas ao segundo site da camada digital da coleção Aprendendo a Lidar com Dinheiro – Educação Financeira. Neste material, traremos um aprofundamento na etapa de planejamento do educador e do estudante, vamos introduzir a ferramenta digital Padlet como Diário de Bordo e aprenderemos a montar Infográficos como recursos didáticos. Prontos?
+            Olá, professores! Sejam bem-vindos ao terceiro site da camada digital da coleção Aprendendo a Lidar com Dinheiro – Educação Financeira. Veja abaixo sobre o que trataremos neste site.
             </p>
           </div>
           <motion.div 
