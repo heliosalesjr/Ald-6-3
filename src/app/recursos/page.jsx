@@ -2,6 +2,9 @@
 
 import { Divider } from '@nextui-org/react'
 import RecHero from '../components/Recursos/RecHero'
+import RecCriando from '../components/Recursos/RecCriando'
+import RecLembre from '../components/Recursos/RecLembre'
+import RecCards from '../components/Recursos/RecCards'
 
 
 
@@ -10,8 +13,9 @@ function Recursos() {
     <>
         
         <RecHero />
-        
-        
+        <RecCriando />
+        <RecLembre />
+        <RecCards />
     </>
     
   )
