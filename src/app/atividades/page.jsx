@@ -10,6 +10,7 @@ import AtiSugestao from '../components/Atividades/AtiSugestao'
 import { Divider } from '@nextui-org/react'
 import Monitoramento from '../components/Atividades/Monitoramento'
 import AtiDiarioBordo from '../components/Atividades/AtiDiarioBordo'
+import AtiABPDrop from '../components/Atividades/AtiABPDrop'
 
 function Atividades() {
   return (
@@ -19,6 +20,7 @@ function Atividades() {
         <AtiEtapas />
         <AtiAvalia />
         <AtiABP />
+        <AtiABPDrop />
         <AtiEstudante />
         <Divider className='max-w-5xl mx-auto my-4 bg-primary'/>
         <AtiSugestao />
