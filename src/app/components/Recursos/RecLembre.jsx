@@ -90,7 +90,7 @@ function RecLembre() {
             </div>
           </div>
         </div>
-        <div className='divider max-w-screen-xl mx-auto'></div>
+       
       </section>
     </div>
   );
